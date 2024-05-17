@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>temperature-control.png</file>
+    </qresource>
+</RCC>
